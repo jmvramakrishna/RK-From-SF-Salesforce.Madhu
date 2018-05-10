@@ -1,6 +1,6 @@
 public class AuraExample1 {
     public static string Name{set;get;}
-    // comment by RK 2
+    // comment by RK 3
     public AuraExample1(){Name='Name assigned by Constructor';}
 
     @AuraEnabled
